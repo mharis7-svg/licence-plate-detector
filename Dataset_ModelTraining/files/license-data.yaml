@@ -1,0 +1,7 @@
+train: datasets/License-Plate-dataset/train/images
+val: datasets/License-Plate-dataset/valid/images
+test: datasets/License-Plate-dataset/test/images
+
+nc: 1
+names: ['License_Plate']
+
